@@ -159,6 +159,8 @@ On the bottom of the left section, you will see the pool selection. Clicking on 
 
 ---
 
+
+
 <img align=left" width="110" height="577" src="assets/mana_curve.jpg" />
 
 For example, this curve will grant you with following mana type:
