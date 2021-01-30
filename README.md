@@ -110,3 +110,13 @@ The effect in each act is as follow:
 - Act I - Standard gameplay, start at the beginning.
 - Act II - Add two extra manas for both players.
 - Act III - Unlock ultimate skill.
+
+---
+
+# That should cover everything about the gameplay
+
+However, deckbuilding is at the core of this game and all the cards are free. You might as well want to experiment with them. If you want to get playing, the game should have several decks unlocked for you from the start. Feel free to go play the game and come back if you need assistance building the deck.
+
+---
+
+## Deck Builder
