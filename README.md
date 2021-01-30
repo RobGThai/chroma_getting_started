@@ -80,4 +80,10 @@ You can see both you and your opponent's information on the board. The following
 2. Health and Barrier
 3. Abilities (Primary, Secondary, Ultimate in that order)
 
-Health is displayed in both number and the ring around your avatar. You start at 40 and can have up to maximum of 80. One the ring you will see two barriers. These barriers are at 30HP and 15HP, when destroy it skip the story to the next arc regardless of what the arc counter might be.
+Health is displayed in both number and the ring around your avatar. You start at 40 and can have up to maximum of 80. One the ring you will see two barriers. These barriers are at 30HP and 15HP, when destroy it skip the story to the next arc regardless of what the arc counter might be. Barrier will absorb extra damage dealth when reach. For example, you have 31HP and getting hit for 5 damage by an opponent's companion. Instead of losing 5 HP, you will only lose one HP with Barrier absorbing the rest.
+
+Abilities are tied to your hero, this can also be changed for each deck as well. You can hover your mouse on top of the ability to read what it does. Abilities varied per hero and there are lots of hero so it won't be covered here.
+
+![heroes](assets/heroes.jpg)
+
+
