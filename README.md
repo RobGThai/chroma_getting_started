@@ -46,7 +46,7 @@ Enchantment can be a stanalone card or accompanying a companion (as seen above i
 
 Landmark is similar to enchantment card but it has plate protecting it. Plate is similar to HP but counting instance of attack instead of damage. For example, to destroy `The Boundless Spire` above you need to attack it 6 times.
 
-**Mana cost**
+## Mana cost
 
 Most cards required mana cost to play (This is shown on the top of the card in circles. Chroma has five types of Mana.
 
@@ -65,3 +65,19 @@ You gain more mana each turn. First turn, you have one mana. The second turn, tw
 ![player](assets/your_hero.jpg)
 
 The colorful marble on the left is your Mana Curve. You gain mana from the bottom to the top. Note that the space at the top is reserved for two extra manas which you gain in Act 2.
+
+---
+
+## Understanding the arena
+
+![Arena](assets/arena.jpg)
+
+You can see both you and your opponent's information on the board. The following information are available:
+
+<img align="left" width="450" height="450" src="assets/your_hero_LI.jpg" />
+
+1. Mana Curve
+2. Health and Barrier
+3. Abilities (Primary, Secondary, Ultimate in that order)
+
+Health is displayed in both number and the ring around your avatar. You start at 40 and can have up to maximum of 80. One the ring you will see two barriers. These barriers are at 30HP and 15HP, when destroy it skip the story to the next arc regardless of what the arc counter might be.
