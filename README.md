@@ -52,11 +52,11 @@ Most cards required mana cost to play (This is shown on the top of the card in c
 
 ![mana](assets/mana_type.jpg)
 
-3. **A**mbition (Green)
+1. **A**mbition (Green)
 1. **D**evotion (Purple)
-2. **I**nsight (Blue)
-4. **V**alor (Red)
-5. **N**eutral (Gray)
+1. **I**nsight (Blue)
+1. **V**alor (Red)
+1. **N**eutral (Gray)
 
 To play the card, you must have enough mana of the correct type. Neutral mana type can be replaced with anything. Playable cards on your hand will glow to let you know that they can be played.
 
