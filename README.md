@@ -26,6 +26,8 @@ Attack stance will allow the companion to attack a target. Guard stance companio
 
 Companion will leave the field once its HP depleted. They lose HP by getting attacked by other companions, spells, or abilities.
 
+Some companions have abilities you can use with mana as well, this show up as a coin on that companion on the field.
+
 **Spell**
 
 ![spell card](assets/spell.jpg)
@@ -78,12 +80,33 @@ You can see both you and your opponent's information on the board. The following
 
 1. Mana Curve
 2. Health and Barrier
-3. Abilities (Primary, Secondary, Ultimate in that order)
+3. Skills (Primary, Secondary, Ultimate in that order)
 
-Health is displayed in both number and the ring around your avatar. You start at 40 and can have up to maximum of 80. One the ring you will see two barriers. These barriers are at 30HP and 15HP, when destroy it skip the story to the next arc regardless of what the arc counter might be. Barrier will absorb extra damage dealth when reach. For example, you have 31HP and getting hit for 5 damage by an opponent's companion. Instead of losing 5 HP, you will only lose one HP with Barrier absorbing the rest.
+Health is displayed in both number and the ring around your avatar. You start at 40 and can have up to maximum of 80. One the ring you will see two barriers. These barriers are at 30HP and 15HP, when destroy it skip the story to the next act regardless of what the act counter might be. Barrier will absorb extra damage dealth when reach. For example, you have 31HP and getting hit for 5 damage by an opponent's companion. Instead of losing 5 HP, you will only lose one HP with Barrier absorbing the rest.
 
-Abilities are tied to your hero, this can also be changed for each deck as well. You can hover your mouse on top of the ability to read what it does. Abilities varied per hero and there are lots of hero so it won't be covered here.
+Abilities are tied to your hero, this can also be changed for each deck as well. You can hover your mouse on top of the skill to read what it does. Abilities varied per hero and there are lots of hero so it won't be covered here.
+
+Primary and secondary skills are active from the start but the ultimate will be locked until the 3rd act. The ultimate skill can only be used once.
 
 ![heroes](assets/heroes.jpg)
 
+---
 
+## Act
+
+Chroma has three acts which progress as the game goes on.
+
+![act counter](assets/arc_counter.jpg) ![current act](assets/arc_number.jpg)
+
+Act counter is just above your player board. The number decrease for each card being played. When reached 0 the next act begins after the current turn ended.
+
+In the middle of the screen, you can see act number(I/II/III) displayed.
+
+When the first 30HP barrier get destroyed, the act counter will be set to zero and progressing to the second act.
+When the first 15HP barrier get destroyed, the act counter will be set to zero and progressing to the third act.
+
+The effect in each act is as follow:
+
+- Act I - Standard gameplay, start at the beginning.
+- Act II - Add two extra manas for both players.
+- Act III - Unlock ultimate skill.
