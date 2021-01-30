@@ -52,6 +52,8 @@ Most cards required mana cost to play (This is shown on the top of the card in c
 
 ![mana](assets/mana_type.jpg)
 
+<img align="left" width="219" height="343" src="assets/mana_type.jpg" />
+
 1. **A**mbition (Green)
 1. **D**evotion (Purple)
 1. **I**nsight (Blue)
