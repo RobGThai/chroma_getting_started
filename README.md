@@ -151,7 +151,7 @@ On top of the hero image, you can see mana listed. This is the hero's available 
 
 ### Mana Curve
 
-<img align="left" width="110" height="320" src="assets/mana_curve_selection.jpg" />
+<img align="left" width="55" height="160" src="assets/mana_curve_selection.jpg" />
 
 Once the hero is chosen, you can choose how your mana curve is distributed. As mentioned before, Mana Curve, is how you gain mana as the game progress.
 
