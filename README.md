@@ -129,7 +129,49 @@ Building your very own Deck is half of this game. With lots of heroes and cards 
 
 ![Home](assets/home.jpg)
 
-On the home screen, you can create a new deck by clicking on the **DECKBUILDER** menu.
+On the home screen, you can create a new deck by clicking on the **DECKBUILDER** menu. Hover on the menu will present you with option to see you Decks.
+
+![menu](assets/deck_menu.jpg)
+
+You should then see DECKBUILDER screen like this.
+
+![builder](assets/deck_builder.jpg)
+
+This might look intimidating but it's actually quite straight forward. Let's look at them one by one.
+
+### Hero
+
+![hero](assets/heroes.jpg)
+
+You can select hero by clicking on the avatar. This will display hero selection screen. You can right click on the hero to see lore and skills description.
+
+![The Envoy](assets/hero_the_envoy.jpg)
+
+On top of the hero image, you can see mana listed. This is the hero's available mana pool. They will dictate how the deck should be theme to fit the hero. Every hero has 12 mana equally but the mana type will be unique per hero.
+
+### Mana Curve
+
+Once the hero is chosen, you can choose how your mana curve is distributed. As mentioned before, Mana Curve, is how you gain mana as the game progress.
+
+<img align="left" width="110" height="320" src="assets/mana_curve_selection.jpg" />
+
+On the bottom of the left section, you will see the pool selection. Clicking on them will add that mana type to the curve right on top of it.
+
+<img align=left" width="110" height="577" src="assets/mana_curve.jpg" />
+
+For example, this curve will grant you with following mana type:
+
+- Turn 1 - 1I
+- Turn 2 - 1I 1V
+- Turn 3 - 2I 1V
+- Turn 4 - 2I 1V 1D
+- Turn 5 - 3I 1V 1D
+- Turn 6 - 3I 2V 1D
+- Turn 7 - 4I 2V 1D
+- Turn 8 - 4I 2V 2D
+- Turn 9 - 5I 2V 2D
+- Turn 10 - 5I 3V 2D
+
 
 ---
 
