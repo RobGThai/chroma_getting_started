@@ -50,8 +50,6 @@ Landmark is similar to enchantment card but it has plate protecting it. Plate is
 
 Most cards required mana cost to play (This is shown on the top of the card in circles. Chroma has five types of Mana.
 
-![mana](assets/mana_type.jpg)
-
 <img align="left" width="219" height="343" src="assets/mana_type.jpg" />
 
 1. **A**mbition (Green)
