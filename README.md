@@ -123,6 +123,13 @@ However, deckbuilding is at the core of this game and all the cards are free. Yo
 
 ## Deck Builder
 
+Building your very own Deck is half of this game. With lots of heroes and cards to choose from the combination are limitless. It's up to you to find your own combination to enjoy the game. This is how you do it.
+
+### Navigation
+
+![Home](assets/home.jpg)
+
+On the home screen, you can create a new deck by clicking on the **DECKBUILDER** menu.
 
 ---
 
@@ -130,21 +137,21 @@ However, deckbuilding is at the core of this game and all the cards are free. Yo
 
 The following are the mechanics on the card from the game. They can always be seen by hovering over the card.
 
-Ability - Has a special ability that can be activated during your turn. (Read the card)
-Bolt - May act right away.
-Dawn - One time effect that activates when this enter the Story during your turn.
-Deadly - Destroy any Companion this deals damage to.
-Develop - Summons a special Enchantment. Can be used to gain mana.
-Disarm - Disarmed Companion have zero attack and can't attack for one turn.
-Dusk - Activate when this goes from the Story to the Ashes.
-Enchanted - An enchanted Companion is both an Enchantment and a Companion. If the Companion is destroyed, the Enchantment remains.
-Evolve - Transform when the Act or condition has been reached.
-Mark - Marks are applied directly to the Pages. Only one Mark can be on any given Page.
-Plating - Reduces number of damage taken to 1.
-Rally - Activates adter an allied Companion sharing a subtype enters the Story.
-Scry - Look at the top Card of your Deck. You may place it back or place it on the bottom of your deck.
-Spell Power - Your spells deal extra damage and restore extra health.
-Uncover - Choose one of three cards from the top of your Deck. Add it to your Hand.
-Void - A voided Card is permanently removed from the game.
-Warded - Can't be targeted by Spells or Abilities from your opponent.
+- Ability - Has a special ability that can be activated during your turn. (Read the card)
+- Bolt - May act right away.
+- Dawn - One time effect that activates when this enter the Story during your turn.
+- Deadly - Destroy any Companion this deals damage to.
+- Develop - Summons a special Enchantment. Can be used to gain mana.
+- Disarm - Disarmed Companion have zero attack and can't attack for one turn.
+- Dusk - Activate when this goes from the Story to the Ashes.
+- Enchanted - An enchanted Companion is both an Enchantment and a Companion. If the Companion is destroyed, the Enchantment remains.
+- Evolve - Transform when the Act or condition has been reached.
+- Mark - Marks are applied directly to the Pages. Only one Mark can be on any given Page.
+- Plating - Reduces number of damage taken to 1.
+- Rally - Activates adter an allied Companion sharing a subtype enters the Story.
+- Scry - Look at the top Card of your Deck. You may place it back or place it on the bottom of your deck.
+- Spell Power - Your spells deal extra damage and restore extra health.
+- Uncover - Choose one of three cards from the top of your Deck. Add it to your Hand.
+- Void - A voided Card is permanently removed from the game.
+- Warded - Can't be targeted by Spells or Abilities from your opponent.
 
