@@ -151,13 +151,13 @@ On top of the hero image, you can see mana listed. This is the hero's available 
 
 ### Mana Curve
 
-Once the hero is chosen, you can choose how your mana curve is distributed. As mentioned before, Mana Curve, is how you gain mana as the game progress.
-
 <img align="left" width="110" height="320" src="assets/mana_curve_selection.jpg" />
 
----
+Once the hero is chosen, you can choose how your mana curve is distributed. As mentioned before, Mana Curve, is how you gain mana as the game progress.
 
 On the bottom of the left section, you will see the pool selection. Clicking on them will add that mana type to the curve right on top of it.
+
+---
 
 <img align=left" width="110" height="577" src="assets/mana_curve.jpg" />
 
