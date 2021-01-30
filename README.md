@@ -4,6 +4,8 @@
 
 Chroma is a free to play card game where you combat your opponent with your hero and deck. Unlike other games, ALL the cards are available for you to choose from. This allow you to experiment with deck building to your desire at no cost.
 
+[If you are looking for official learning guide, it's here.](https://www.chromacg.com/how-to-play-client)
+
 ![Chroma arena](assets/arena.jpg)
 
 # Gameplay
@@ -220,6 +222,8 @@ If you'd like to edit an existing deck. Simply click on edit button.
 
 ![edit deck](assets/edit_deck.jpg)
 
+That's it! I suggest you hit Play and try it out in Casual mode to see how it works!
+
 ---
 
 ## Mechanics
@@ -244,3 +248,8 @@ The following are the mechanics on the card from the game. They can always be se
 - Void - A voided Card is permanently removed from the game.
 - Warded - Can't be targeted by Spells or Abilities from your opponent.
 
+---
+
+## Glossary
+
+- 
