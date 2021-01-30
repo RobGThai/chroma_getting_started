@@ -155,6 +155,8 @@ Once the hero is chosen, you can choose how your mana curve is distributed. As m
 
 <img align="left" width="110" height="320" src="assets/mana_curve_selection.jpg" />
 
+---
+
 On the bottom of the left section, you will see the pool selection. Clicking on them will add that mana type to the curve right on top of it.
 
 <img align=left" width="110" height="577" src="assets/mana_curve.jpg" />
