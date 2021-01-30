@@ -133,7 +133,11 @@ On the home screen, you can create a new deck by clicking on the **DECKBUILDER**
 
 ![menu](assets/deck_menu.jpg)
 
-You should then see DECKBUILDER screen like this.
+You should then see DECKBUILDER screen like this. To use the deck, you need to complete the deck and save it. The complete deck must have the following:
+
+1. Hero selected.
+2. Mana curve fully distributed.
+3. 40 cards.
 
 ![builder](assets/deck_builder.jpg)
 
@@ -159,7 +163,6 @@ On the bottom of the left section, you will see the pool selection. Clicking on 
 
 ---
 
-
 <img align="right" width="55" height="290" src="assets/mana_curve.jpg" />
 
 For example, this curve will grant you with following mana type:
@@ -175,6 +178,47 @@ For example, this curve will grant you with following mana type:
 - Turn 9 - 5I 2V 2D
 - Turn 10 - 5I 3V 2D
 
+---
+
+### Cards
+
+Since card required mana, it's probably logically easier to draft Mana Curve first. Carrying on from the last section, we know we have 5I 3V 2D mana to select from (and 2 wildcard manas from Act 2). We can proceed to select the card. 
+
+> Do note that the game does not prevent you to pick the card that you have no mana to play. This is because there're other means to acquire mana other than Mana Curve(Hero's skills, abilities, spells) 
+
+![drone](assets/mana_drone.jpg) ![spell](assets/spell.jpg)
+
+You can click on any card on the right to add them to your deck. There're specific limit on number of copy on that card in your deck. There's a small ribbon on the side of the card to show you how many more copy of that card you can pick. The card will grayed out if the limit number has been reached.
+
+On the left side of the screen, you can see the cards in your deck. Each card will show up like so with the circles at the bottom signify how many copies of that card is selected.
+
+![card](assets/card_item.jpg)
+
+If you are looking for specific card, you can play with the filter above the cards to find what you are looking for. As per usual, hovering will reveal what each option does.
+
+![filter](assets/deck_filter.jpg)
+
+There're five options available. Here's from left to right:
+
+1. Search by text. This can be name of the card, any text on it. This is useful if you are looking for cards with specific mechanics.
+2. Search by mana type. Include or exclude that type of mana. They are AND filter tho.
+3. Filter by mana pool. Dark mean filtered, bright mean everything.
+4. Filter by mana cost. Useful when you are looking for more card for early game, etc.
+5. Filter by card type. Companion, Enchantment, Spell, Landmark.
+
+Once complete, **name your deck** and don't forget to click `Save Deck`. `New Deck` button will create a new empty deck for you.
+
+Now you can play with your newly created Deck. Let's see how to choose them.
+
+### Deck Selection
+
+On the home screen, simply click on the image of your hero above the play button. This will bring up deck selection screen. Click on the deck you want and you are set.
+
+![selection](assets/deck_selection.jpg)
+
+If you'd like to edit an existing deck. Simply click on edit button.
+
+![edit deck](assets/edit_deck.jpg)
 
 ---
 
