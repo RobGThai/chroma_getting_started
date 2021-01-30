@@ -38,6 +38,8 @@ Each spell card has unique effect written on the card. In this case `Blossom`, h
 
 Enchantment card is similar to spell card but its effect is for a period of time. This period of time can be seen by the yellow number at the bottom of the card and counting down each of your turn. The card will leave the page once the number reach zero and the effect will stop.
 
+Enchantment can be a stanalone card or accompanying a companion (as seen above in `Radiance`). In the case of enchanted companion; Once the companion is defeated, it will turn into enchantment on the same page. When this happens, the countdown will start.
+
 **Landmark**
 
 ![Landmark card](assets/landmark.jpg)
@@ -46,4 +48,20 @@ Landmark is similar to enchantment card but it has plate protecting it. Plate is
 
 **Mana cost**
 
+Most cards required mana cost to play (This is shown on the top of the card in circles. Chroma has five types of Mana.
 
+![mana](assets/mana_type.jpg)
+
+1. **D**evotion (Purple)
+2. **I**nsight (Blue)
+3. **A**mbition (Green)
+4. **V**alor (Red)
+5. **N**eutral (Gray)
+
+To play the card, you must have enough mana of the correct type. Neutral mana type can be replaced with anything. Playable cards on your hand will glow to let you know that they can be played.
+
+You gain more mana each turn. First turn, you have one mana. The second turn, two mana, etc. Used mana also ge replenished as well. The type of mana you gain can be seen on the mana curve on the side, this can be configured for each deck individually.
+
+![player](assets/your_hero.jpg)
+
+The colorful marble on the left is your Mana Curve. You gain mana from the bottom to the top. Note that the space at the top is reserved for two extra manas which you gain in Act 2.
