@@ -159,7 +159,7 @@ On the bottom of the left section, you will see the pool selection. Clicking on 
 
 ---
 
-
+![curve](assets/mana_curve.jpg)
 
 <img align=left" width="110" height="577" src="assets/mana_curve.jpg" />
 
