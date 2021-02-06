@@ -61,6 +61,7 @@ Most cards required mana cost to play (This is shown on the top of the card in c
 1. **I**nsight (Blue)
 1. **V**alor (Red)
 1. **N**eutral (Gray)
+1. Chromatic (multiple color, normally get from bag of coin)
 
 To play the card, you must have enough mana of the correct type. Neutral mana type can be replaced with anything. Playable cards on your hand will glow to let you know that they can be played.
 
@@ -244,12 +245,8 @@ The following are the mechanics on the card from the game. They can always be se
 - Rally - Activates adter an allied Companion sharing a subtype enters the Story.
 - Scry - Look at the top Card of your Deck. You may place it back or place it on the bottom of your deck.
 - Spell Power - Your spells deal extra damage and restore extra health.
+- Subtype - Subtype of the card, usually found at the bottom of the card. For example, human, spirit, SF, etc.
 - Uncover - Choose one of three cards from the top of your Deck. Add it to your Hand.
 - Void - A voided Card is permanently removed from the game.
 - Warded - Can't be targeted by Spells or Abilities from your opponent.
 
----
-
-## Glossary
-
-- 
